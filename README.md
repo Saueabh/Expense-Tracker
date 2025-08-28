@@ -1,2 +1,2 @@
-# Expense-Tracker
+# Brainwave Matrix Solutions
 Web project for internship
